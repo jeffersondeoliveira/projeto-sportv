@@ -1,6 +1,8 @@
+
 .logo-img {
   width: 20vw;
 }
+
 
 .navbar {
   height: 12vh;
@@ -9,6 +11,10 @@
 #imagem-Sport {
   height: 100vh;
   width: 50vw;
+}
+
+.main {
+  background-color: #2d374e;
 }
 
 .cards-ativ {
@@ -38,6 +44,17 @@
 .formulario {
   display: flex;
   justify-content: center;
+  background-color: #1d273e;
+  color: white;
+  padding: 15px;
+}
+
+.formulario > form {
+  border: solid 2px #3d465f;
+  background-color: #3d465f;
+  border-radius: 8px;
+  padding: 18px;
+  width: 20vw;
 }
 
 .EsqueceuSenha {
