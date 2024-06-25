@@ -1,0 +1,58 @@
+.logo-img {
+  width: 20vw;
+}
+
+.navbar {
+  height: 12vh;
+}
+
+#imagem-Sport {
+  height: 100vh;
+  width: 50vw;
+}
+
+.cards-ativ {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  margin: 12px;
+}
+
+.grup-card {
+  display: flex;
+  justify-content: center;
+}
+
+#img-group-car{
+  border-radius: 50%;
+  height: 40vh;
+}
+
+#img-group-car:hover {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+
+.formulario {
+  display: flex;
+  justify-content: center;
+}
+
+.EsqueceuSenha {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.EsqueceuSenha > a {
+  text-decoration: none;
+}
+
+.novoCadastro > button{
+  color: white;
+  border: solid 1px transparent;
+  border-radius: 6px;
+  background-color: rgb(26, 168, 26);
+  padding: 5px;
+}
